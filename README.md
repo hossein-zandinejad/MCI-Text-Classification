@@ -36,6 +36,8 @@ Feel free to experiment with different texts to observe how the model classifies
 
 Remember that the accuracy of predictions depends on the quality of the training data and the performance of the underlying Machine Learning models used in the project.
 
+![gradio](images/2.png)
+
 ## Project Overview
 
 This project focuses on classifying text data into different categories using a range of machine learning and deep learning techniques. It encompasses data preprocessing, word embeddings, model development, evaluation, and ensemble prediction.
