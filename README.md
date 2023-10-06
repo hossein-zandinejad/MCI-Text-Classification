@@ -58,8 +58,11 @@ git clone https://github.com/hossein-zandinejad/MCI-Text-Classification.git
 Make sure you have the following dependencies installed:
 
 Python (>=3.6)
+
 Jupyter Notebook
+
 Libraries: numpy, pandas, nltk, gensim, wordcloud, matplotlib, plotly, scikit-learn, tensorflow, keras, gradio
+
 You can install the required Python libraries using pip:
 ```bash
 pip install numpy pandas nltk gensim wordcloud matplotlib plotly scikit-learn tensorflow keras gradio
