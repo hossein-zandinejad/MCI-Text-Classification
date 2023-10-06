@@ -62,7 +62,7 @@ Jupyter Notebook
 Libraries: numpy, pandas, nltk, gensim, wordcloud, matplotlib, plotly, scikit-learn, tensorflow, keras, gradio
 You can install the required Python libraries using pip:
 ```bash
-pip install numpy pandas nltk gensim wordcloud matplotlib plotly scikit-learn tensorflow keras
+pip install numpy pandas nltk gensim wordcloud matplotlib plotly scikit-learn tensorflow keras gradio
 ```
 ## Data Preprocessing
 
