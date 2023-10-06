@@ -1,10 +1,13 @@
 # MCI Text Classification
 Hamrah Aval Text Classification Project
 
+![Text Classification](images/3.png)
+
 This project focuses on classifying text data into different categories using various machine learning and deep learning techniques. It covers data preprocessing, word embeddings, model development, evaluation, and ensemble prediction.
 
 ## Table of Contents
 
+- [Using the Text Classifier Interface](#using-the-text-classifier-interface)
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
   - [Clone the Repository](#clone-the-repository)
@@ -15,6 +18,23 @@ This project focuses on classifying text data into different categories using va
 - [Model Evaluation](#model-evaluation)
 - [Ensemble Prediction](#ensemble-prediction)
 - [Model Comparison](#model-comparison)
+
+
+## Using the Text Classifier Interface
+
+To make use of the text classification model developed in this project, you can interact with the user interface provided. Follow these steps to utilize the interface for predicting the category of a given text:
+
+1. **Launch the Interface**: Run the provided code to launch the interface. You can do this by executing the script or cell containing the code snippet.
+
+2. **Enter Text**: In the interface, you will find an input field labeled "text." Enter the text you want to classify into this field.
+
+3. **Get Predicted Category**: After entering the text, click the interface's "Submit" or "Predict" button (depending on the interface design). The model will process the input text and predict its category based on the trained machine learning models.
+
+4. **View Predicted Category**: The predicted category will be displayed as the output of the interface. This represents the model's classification for the provided text.
+
+Feel free to experiment with different texts to observe how the model classifies them. This user-friendly interface simplifies the process of obtaining predictions from the text classification model.
+
+Remember that the accuracy of predictions depends on the quality of the training data and the performance of the underlying Machine Learning models used in the project.
 
 ## Project Overview
 
@@ -29,7 +49,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 To clone this repository to your local machine, use the following command:
 
 ```bash
-git clone https://github.com/your-username/text-classification-project.git
+git clone https://github.com/hossein-zandinejad/MCI-Text-Classification.git
 ```
 ### Dependencies
 
@@ -65,5 +85,3 @@ The project incorporates an ensemble approach, combining predictions from multip
 ## Model Comparison
 
 A bar chart is generated to provide a visual comparison of the accuracies achieved by different models. This comparative analysis facilitates the evaluation and selection of the most suitable model for the text classification task.
-
-
